@@ -11,7 +11,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/XLSawer-KPN-Popon-AllPaket-Android/master/POPON.png)
 # Tampilan Streaming TV Online Kualitas 720p 
 ![be](https://raw.githubusercontent.com/boychongzen18/XLSawer-KPN-Popon-AllPaket-Android/master/TV.png)
-# Tampilan Speed di fast.com 
+# Tampilan SpeedTest di fast.com 
 ![be](https://raw.githubusercontent.com/boychongzen18/XLSawer-KPN-Popon-AllPaket-Android/master/METERSPEED.png)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
